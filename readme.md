@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://iaraMarques.github.io/You-Travel-Expert)
+- [Visite o projeto online](https://esio1998.github.io/Desafio-1-Travel-Expert-Landing-Page/)
 
 <br/>
 
