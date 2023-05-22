@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://esio1998.github.io/Desafio-1-Travel-Expert-Landing-Page/)
+- [Visite o projeto online](https://esioalmeida.github.io/Travel-Expert-Landing-Page/)
 
 <br/>
 
